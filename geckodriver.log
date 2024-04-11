@@ -1535,3 +1535,74 @@ console.warn: LoginRecipes: "Falling back to a synchronous message for: http://l
 console.error: services.settings: 
   main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
 console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+1712828457478	geckodriver	INFO	Listening on 127.0.0.1:47461
+1712828458352	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileadx4MC"
+Gtk-Message: 09:40:58.380: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1712828459011	Marionette	INFO	Marionette enabled
+1712828459013	Marionette	INFO	Listening on port 43499
+Read port: 43499
+1712828459142	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileadx4MC/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51755."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:51755."
+1712828462948	Marionette	INFO	Stopped listening on port 43499
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+1712828920316	geckodriver	INFO	Listening on 127.0.0.1:49497
+1712828921188	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileM4mopm"
+Gtk-Message: 09:48:41.215: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1712828921768	Marionette	INFO	Marionette enabled
+1712828921771	Marionette	INFO	Listening on port 42613
+Read port: 42613
+1712828921879	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileM4mopm/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:35101."
+1712828924426	Marionette	INFO	Stopped listening on port 42613
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+1712828960657	geckodriver	INFO	Listening on 127.0.0.1:41321
+1712828961546	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofilehcQyaF"
+Gtk-Message: 09:49:21.585: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1712828962221	Marionette	INFO	Marionette enabled
+1712828962225	Marionette	INFO	Listening on port 36119
+Read port: 36119
+1712828962361	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofilehcQyaF/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:60251."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:60251."
+1712828966240	Marionette	INFO	Stopped listening on port 36119
+console.error: services.settings: 
+  main/query-stripping Signature failed  TypeError: NetworkError: Network request failed
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
+1712829030033	geckodriver	INFO	Listening on 127.0.0.1:58135
+1712829030921	mozrunner::runner	INFO	Running command: "/snap/firefox/current/firefox.launcher" "--marionette" "-no-remote" "-profile" "/tmp/rust_mozprofileaFXZVN"
+Gtk-Message: 09:50:30.947: Not loading module "atk-bridge": The functionality is provided by GTK natively. Please try to not load it.
+console.warn: services.settings: Ignoring preference override of remote settings server
+console.warn: services.settings: Allow by setting MOZ_REMOTE_SETTINGS_DEVTOOLS=1 in the environment
+[GFX1-]: glxtest: VA-API test failed: failed to initialise VAAPI connection.
+ATTENTION: default value of option mesa_glthread overridden by environment.
+1712829031534	Marionette	INFO	Marionette enabled
+1712829031537	Marionette	INFO	Listening on port 39405
+Read port: 39405
+1712829031743	RemoteAgent	WARN	TLS certificate errors will be ignored for this session
+console.error: ({})
+console.warn: SearchSettings: "get: No settings file exists, new profile?" (new NotFoundError("Could not open the file at /tmp/rust_mozprofileaFXZVN/search.json.mozlz4", (void 0)))
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50105."
+console.warn: LoginRecipes: "Falling back to a synchronous message for: http://localhost:50105."
+1712829034513	Marionette	INFO	Stopped listening on port 39405
+console.error: (new NetworkError("Network error: TypeError: NetworkError: Network request failed", "resource://services-settings/RemoteSettingsClient.jsm", 116))
