@@ -80,7 +80,7 @@ class NewVisitorTest(LiveServerTestCase):
         self.assertNotIn('Buy flowers', page_text)
         self.assertNotIn('BGive a gift to Lisi', page_text)
         
-        inputbox = self.browser.fin_element(By.ID, 'id_new_item')
+        inputbox = self.browser.find_element(By.ID, 'id_new_item')
         inputbox.send_keys('Buy milk')
         inputbox.send_keys(Keys.ENTER)
         self.wait_for_row_in_list_table('1: Buy milk')
