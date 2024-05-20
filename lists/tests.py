@@ -72,7 +72,7 @@ class HomePageTest(TestCase):
         response = self.client.get('/')
         html = response.content.decode('utf8').strip()  # 去除可能存在的尾随空白
         self.assertTrue(html.startswith('<html>'))
-        self.assertIn('<title>To-Do lists</title>', html)
+        self.assertIn('<title>To-Do lists</title>',html)
         self.assertTrue(html.endswith('</html>'))
 
 class ListViewTest(TestCase):
